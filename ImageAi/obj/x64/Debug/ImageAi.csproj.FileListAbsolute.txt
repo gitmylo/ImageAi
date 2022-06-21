@@ -1,0 +1,10 @@
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\bin\x64\Debug\ImageAi.exe.config
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\bin\x64\Debug\ImageAi.exe
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\bin\x64\Debug\ImageAi.pdb
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.csproj.AssemblyReference.cache
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.Form1.resources
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.Properties.Resources.resources
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.csproj.GenerateResource.cache
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.csproj.CoreCompileInputs.cache
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.exe
+C:\Users\milan\RiderProjects\ImageAi\ImageAi\obj\x64\Debug\ImageAi.pdb
